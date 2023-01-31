@@ -11,4 +11,14 @@ Use the following Debian ISO as the base https://cdimage.debian.org/cdimage/unof
 To install:
 
 2: Clone this git
-           > git clone https://github.com/mahedi-p/my_linux_config.git
+        "git clone https://github.com/mahedi-p/my_linux_config.git"
+        
+3: Go to the Folder
+        "cd my_linux_config"
+
+
+: Give execute permission
+        "chmod +x install.sh"
+        Then waite until on it's complete
+        
+It will move your os to SID Branch. And install lightdm,polybar,openbox,jgmenu,pcmanfm,mpd,mpc,ncmpcpp,icon font,xrandr,chromium,obconf,nitrogen,conky,lxappearance,geany,alacritty,htop and som necessary program.
