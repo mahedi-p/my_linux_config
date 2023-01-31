@@ -11,4 +11,4 @@ Use the following Debian ISO as the base https://cdimage.debian.org/cdimage/unof
 To install:
 
 2: Clone this git
-           'https://github.com/mahedi-p/my_linux_config.git'
+           > git clone https://github.com/mahedi-p/my_linux_config.git
